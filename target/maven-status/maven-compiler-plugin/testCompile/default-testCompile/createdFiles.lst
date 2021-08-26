@@ -1,0 +1,5 @@
+org\oBiletTuto\AppTest.class
+Tests\SearchTicketsTest.class
+Listener\Listeners.class
+Tests\SignUpTest.class
+Tests\BaseTest.class
